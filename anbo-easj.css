@@ -1,0 +1,42 @@
+body, html {
+    margin: 15px;
+}
+
+.link a{
+    color: black; 
+}
+
+.title-section {
+    background-color: #f5e89d; 
+    color: black; 
+    text-align: center; 
+    padding: 20px 0; 
+    width: 100%;
+}
+
+.info-card{
+    border: none;
+    margin: 10px;
+}
+
+.semester-card{
+    border: none;
+    background-color: #f8edae;
+    color: black;
+    width: 500px
+}
+
+.h-100 {
+    display: flex;
+    flex-direction: column;
+}
+
+ul {
+    list-style-type: disc; 
+    padding-left: 20px; 
+    margin-left: 0; 
+}
+
+ul li {
+    margin-bottom: 4px;
+}
